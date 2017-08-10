@@ -1,0 +1,9 @@
+c:\users\pc\documents\visual studio 2017\Projects\TheShittyWebBrowser\TheShittyWebBrowser\bin\Debug\TheShittyWebBrowser.exe.config
+c:\users\pc\documents\visual studio 2017\Projects\TheShittyWebBrowser\TheShittyWebBrowser\bin\Debug\TheShittyWebBrowser.exe
+c:\users\pc\documents\visual studio 2017\Projects\TheShittyWebBrowser\TheShittyWebBrowser\bin\Debug\TheShittyWebBrowser.pdb
+c:\users\pc\documents\visual studio 2017\Projects\TheShittyWebBrowser\TheShittyWebBrowser\obj\Debug\TheShittyWebBrowser.csprojResolveAssemblyReference.cache
+c:\users\pc\documents\visual studio 2017\Projects\TheShittyWebBrowser\TheShittyWebBrowser\obj\Debug\TheShittyWebBrowser.Form1.resources
+c:\users\pc\documents\visual studio 2017\Projects\TheShittyWebBrowser\TheShittyWebBrowser\obj\Debug\TheShittyWebBrowser.Properties.Resources.resources
+c:\users\pc\documents\visual studio 2017\Projects\TheShittyWebBrowser\TheShittyWebBrowser\obj\Debug\TheShittyWebBrowser.csproj.GenerateResource.Cache
+c:\users\pc\documents\visual studio 2017\Projects\TheShittyWebBrowser\TheShittyWebBrowser\obj\Debug\TheShittyWebBrowser.exe
+c:\users\pc\documents\visual studio 2017\Projects\TheShittyWebBrowser\TheShittyWebBrowser\obj\Debug\TheShittyWebBrowser.pdb
