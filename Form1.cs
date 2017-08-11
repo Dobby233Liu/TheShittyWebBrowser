@@ -21,5 +21,12 @@ namespace TheShittyWebBrowser
         {
 
         }
+        private void webBrowserzh_DocumentCompleted(object sender, WebBrowserDocumentCompletedEventArgs e)
+        {
+
+        }
+
+        
+        
     }
 }
