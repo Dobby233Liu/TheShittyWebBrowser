@@ -19,9 +19,10 @@ Some antiviruses (SentinelOne and Alibaba, 360???) detect it as malware.  Actual
 
 Told you it was based in IE...
 
-# Compile
+# Compile `*.exe`
+** Here is make by Dobby233Liu. **
 ## Guess who is the MAX Visual Studio version for that?!
-See `*.sln`. Or, Guess `15.0.26430.15`?
+See `*.sln`. or, Guess `15.0.26430.15`?
 ## How that's Install program's Maker?
 Inno Setup, Or you can use other.
 
