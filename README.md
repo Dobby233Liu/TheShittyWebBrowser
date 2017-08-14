@@ -24,7 +24,7 @@ Told you it was based in IE...
 ## Guess who is the MAX Visual Studio version for that?!
 See `*.sln`. or, Guess `15.0.26430.15`?
 ## How that's Install program's Maker?
-Inno Setup, Or you can use other.
+Inno Setup, or you can use other.
 
 # No one can help me.
 If you want, Contact me on Discord: Tent#1619
